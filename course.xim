@@ -1,16 +1,9 @@
 ---
-name: Introduction to probability
-description: This will fail is a sample course which involves two separate units, called, rather uncreatively, Unit 1 and Unit 2.
+name: Geometry James Yao
+description: This activity contains two problems, called problem1 and problem2.
 ---
 
-unit1
-  unit1/basics
-  unit1/final
-unit2
-  unit2/basics
-    unit2/basics/subbasic1
-    unit2/basics/subbasic2
-    unit2/basics/subbasic3
-  unit2/final
-unit3
-unit4
+Activity 1
+  Activity 1/problem1
+  activity 1/problem2
+
